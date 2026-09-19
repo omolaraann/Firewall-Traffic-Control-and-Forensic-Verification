@@ -2,8 +2,6 @@
 
 ## 📌 Overview
 
-This repository contains my practical evidence and documentation for **SBT-DF203: Basic Networking Skills for Digital Forensics — Lab 6: Firewall Traffic Control and Forensic Verification**.
-
 The practical investigates the behaviour of a Linux host-based firewall when HTTP traffic from a designated laboratory client is allowed and subsequently blocked using a narrowly scoped `iptables` rule. The investigation correlates firewall configuration and rule counters with packet-level evidence obtained using Wireshark/TShark and application-level behaviour observed using `curl`.
 
 The laboratory was performed in an authorised isolated virtual environment using a Linux server VM, a laboratory client VM, Apache2, `iptables`, `curl`, and TShark/Wireshark.
@@ -570,9 +568,7 @@ All observations in the final report are based on the commands, packet captures,
 
 ## 👤 Author
 
-**Name:** Kafayat Animashawun
-**Course:** SBT-DF203 — Basic Networking Skills for Digital Forensics
-**Practical:** Lab 6 — Firewall Traffic Control and Forensic Verification
+**Name:** K. Omolara Animashawun
 **Environment:** Authorised isolated virtual laboratory
 **Date:** September 2026
 
