@@ -1,4 +1,4 @@
-# 🔥 SBT-DF203 — Lab 6: Firewall Traffic Control and Forensic Verification
+# 🔥 Firewall Traffic Control and Forensic Verification
 
 ## 📌 Overview
 
